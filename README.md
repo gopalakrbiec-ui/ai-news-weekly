@@ -7,6 +7,7 @@ A weekly, source-verified roundup of AI industry news. One markdown file per wee
 | Week | Dates | Edition |
 |---|---|---|
 | 2026-W36 | Sep 1 – Sep 10, 2026 | [2026-w36.md](editions/2026-w36.md) |
+| 2026-08 (monthly) | Aug 1 – Aug 31, 2026 | [2026-08-monthly.md](editions/2026-08-monthly.md) |
 
 ## Structure
 
